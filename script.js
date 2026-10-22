@@ -1,4 +1,4 @@
-const whatsappNumber = "966570150943";
+const whatsappNumber = "966567079640";
 
 document.getElementById("year").textContent = new Date().getFullYear();
 
